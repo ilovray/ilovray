@@ -11,5 +11,5 @@
 # <div id="header" align="center">
 <div id="header" align="center">
 
-  <img src="https://i.postimg.cc/XYvJTPb1/shadow-milk-cookie-elder-faerie-cookie.gif"> 
+  <img src="https://i.postimg.cc/7ZpkmtY2/Cookie0596-hang.webp"> 
   </div>
