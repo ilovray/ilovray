@@ -1,6 +1,6 @@
  <div id="header" align="center">
   
-  <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/d/d9/Elder_faerie_gacha_animation.gif/revision/latest?cb=20240302055037"> 
+  <img src="https://i.postimg.cc/XYvJTPb1/shadow-milk-cookie-elder-faerie-cookie.gif"> 
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
 
