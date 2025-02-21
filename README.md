@@ -1,6 +1,6 @@
  <div id="header" align="center">
   
-  <img src="https://i.postimg.cc/XYvJTPb1/shadow-milk-cookie-elder-faerie-cookie.gif"> 
+  <img src=""> 
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
 
@@ -11,5 +11,5 @@
 # <div id="header" align="center">
 <div id="header" align="center">
 
-  <img src="https://i.postimg.cc/rFRNBx7y/Captura-de-pantalla-2024-10-28-233425-removebg-preview.png"> 
+  <img src="https://i.postimg.cc/XYvJTPb1/shadow-milk-cookie-elder-faerie-cookie.gif"> 
   </div>
