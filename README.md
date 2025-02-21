@@ -1,6 +1,6 @@
  <div id="header" align="center">
   
-  <img src="https://tenor.com/es/view/shadow-milk-cookie-elder-faerie-cookie-shadow-milk-elder-faerie-crk-gif-12213221671720560096"> 
+  <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/d/d9/Elder_faerie_gacha_animation.gif/revision/latest?cb=20240302055037"> 
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
 
