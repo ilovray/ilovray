@@ -1,6 +1,6 @@
  <div id="header" align="center">
     
-  <img src="https://i.postimg.cc/7ZpkmtY2/Cookie0596-hang.webp"> 
+  <img src="https://i.postimg.cc/vmQFmn6x/Council-of-heroes-pv.webp"> 
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
 
@@ -11,6 +11,6 @@
 # <div id="header" align="center">
 <div id="header" align="center">
 
-  <img src="https://i.postimg.cc/YqZZHGKc/Elder-faerie-gacha-animation.webp"> 
+  <img src="https://i.postimg.cc/8ChYLzLQ/119146089c21bd85d4340e91a0b26e52.gif"> 
 
   </div>
