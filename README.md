@@ -1,5 +1,6 @@
  <div id="header" align="center">
     
+  <img src="https://files.catbox.moe/5gohx0.jpg">
   <img src="https://files.catbox.moe/kha9ih.png">
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
@@ -10,5 +11,7 @@
 
 # <div id="header" align="center">
 <div id="header" align="center">
+
+  <img src="https://files.catbox.moe/irh9sk.jpg">
 
   </div>
