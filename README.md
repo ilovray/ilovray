@@ -1,6 +1,6 @@
  <div id="header" align="center">
     
-  <img src="(https://files.catbox.moe/kha9ih.png)"> 
+  <img src="[https://files.catbox.moe/kha9ih.png]"> 
 
 ◟‿‿◞　𝐸𝓁𝓁𝓎˳ 　‿︵♡
 
